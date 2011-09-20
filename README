@@ -1,0 +1,3 @@
+<p>Some basic examples of how to use three.js
+<p>View the source of <a href="http://ryan-kahn.com/threejs/phase1.html">Phase 1</a> and <a href="http://ryan-kahn.com/threejs/phase2.html">Phase 2</a> to see how things were built. These examples are currently using the canvas and not webGL simply because I wanted to show people on my phone.
+<p>The <a href="http://ryan-kahn.com/threejs/">main page</a> is an example of some advanced usage and my attempts at creating a game similar to <a href="http://www.miniclip.com/games/coign-of-vantage/en/">Coign of Vantage</a> however, I did not spend the time figuring out the 3d math for this one.
